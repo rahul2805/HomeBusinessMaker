@@ -14,7 +14,7 @@ high costs of hiring app development agencies to create their applications.
 ### Major Components of the System
 
 - There are 3 major components in this system:
-  - [Web Dashboard](https://github.com/neel1998/TemplateAppService)
+  - [Web Dashboard](https://github.com/rahul2805/HomeBusinessMaker)
   - [Owner Android application](https://github.com/rahul2805/OwnerApp)
   - [Customer Android application](https://github.com/rahul2805/CustomerApp)
 - All these three components are synced with each other through a backend server.
