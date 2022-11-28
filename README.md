@@ -15,8 +15,8 @@ high costs of hiring app development agencies to create their applications.
 
 - There are 3 major components in this system:
   - [Web Dashboard](https://github.com/neel1998/TemplateAppService)
-  - [Owner Android application](https://github.com/neel1998/TemplateOwnerApp)
-  - [Customer Android application](https://github.com/neel1998/TemplateCustomerApp)
+  - [Owner Android application](https://github.com/rahul2805/OwnerApp)
+  - [Customer Android application](https://github.com/rahul2805/CustomerApp)
 - All these three components are synced with each other through a backend server.
 
 <hr/>
@@ -99,7 +99,7 @@ In this tab, business owner can see the list of user who have registered to this
 
 # Run the system on your Machine
 
-To run the system on your personal machine locally, first make sure both [Owner Android application](https://github.com/neel1998/TemplateOwnerApp) and [Customer Android application](https://github.com/neel1998/TemplateCustomerApp) are setup on your system.
+To run the system on your personal machine locally, first make sure both [Owner Android application](https://github.com/rahul2805/OwnerApp) and [Customer Android application](https://github.com/rahul2805/CustomerApp) are setup on your system.
 
 After cloning this repository, make the following changes:
 
